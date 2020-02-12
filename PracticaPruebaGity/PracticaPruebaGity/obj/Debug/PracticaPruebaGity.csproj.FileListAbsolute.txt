@@ -1,0 +1,9 @@
+J:\2-DAM\M7\GITHUB\PruebaGIt\PracticaPruebaGity\PracticaPruebaGity\bin\Debug\PracticaPruebaGity.exe.config
+J:\2-DAM\M7\GITHUB\PruebaGIt\PracticaPruebaGity\PracticaPruebaGity\bin\Debug\PracticaPruebaGity.exe
+J:\2-DAM\M7\GITHUB\PruebaGIt\PracticaPruebaGity\PracticaPruebaGity\bin\Debug\PracticaPruebaGity.pdb
+J:\2-DAM\M7\GITHUB\PruebaGIt\PracticaPruebaGity\PracticaPruebaGity\obj\Debug\PracticaPruebaGity.csprojAssemblyReference.cache
+J:\2-DAM\M7\GITHUB\PruebaGIt\PracticaPruebaGity\PracticaPruebaGity\obj\Debug\PracticaPruebaGity.Form1.resources
+J:\2-DAM\M7\GITHUB\PruebaGIt\PracticaPruebaGity\PracticaPruebaGity\obj\Debug\PracticaPruebaGity.Properties.Resources.resources
+J:\2-DAM\M7\GITHUB\PruebaGIt\PracticaPruebaGity\PracticaPruebaGity\obj\Debug\PracticaPruebaGity.csproj.GenerateResource.cache
+J:\2-DAM\M7\GITHUB\PruebaGIt\PracticaPruebaGity\PracticaPruebaGity\obj\Debug\PracticaPruebaGity.exe
+J:\2-DAM\M7\GITHUB\PruebaGIt\PracticaPruebaGity\PracticaPruebaGity\obj\Debug\PracticaPruebaGity.pdb
